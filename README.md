@@ -14,21 +14,6 @@ The **Sharpe Ratio** is one of the most widely used measures in portfolio manage
 
 ---
 
-## 📂 Project Structure
-
-```
-📦 Project
-├── 📁 data
-│   ├── historical_prices.csv    # Historical stock price data
-├── 📁 scripts
-│   ├── optimization.py          # Portfolio optimization logic
-│   ├── sharpe_ratio_calc.py     # Functions to calculate the Sharpe Ratio
-├── 📊 notebooks
-│   ├── sharpe_ratio_maximization.ipynb  # Full project walkthrough
-├── 📄 README.md                 # Project documentation
-```
-
----
 
 ## 🛠️ Methodology
 
