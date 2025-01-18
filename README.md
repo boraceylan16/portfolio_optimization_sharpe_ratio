@@ -12,13 +12,7 @@ The **Sharpe Ratio** is one of the most widely used measures in portfolio manage
 1. **Data Collection**: Gathered historical stock price data for a randomly selected group of assets.
 2. **Sharpe Ratio Calculation**:
    - **Formula**:  
-     \[
-     Sharpe\ Ratio = \frac{E(R_p) - R_f}{\sigma_p}
-     \]  
-     Where:
-     - \(E(R_p)\): Expected return of the portfolio.
-     - \(R_f\): Risk-free rate.
-     - \(\sigma_p\): Portfolio standard deviation.
+     (Expected return of the portfolio - Risk-free rate)/ Portfolio standard deviation.
 3. **Optimization**:
    - Applied **Mean-Variance Optimization** to calculate weights that maximize the Sharpe Ratio.
    - Explored **Monte Carlo Simulations** to evaluate multiple portfolio configurations.
